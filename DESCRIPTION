@@ -1,0 +1,12 @@
+Package: gradients
+Type: Package
+Title: A package to assess the role of environmental variables on plant traits across ecological gradients
+Version: 0.1.0
+Author: Aitor Ameztegui (Universitat de Lleida)
+Maintainer: Aitor Ameztegui <aitor.ameztegui@eagrof.udl.cat>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
